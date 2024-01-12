@@ -1,2 +1,1 @@
-# PlantillaDemo.github.io
-Plantilla demostración 1
+# Plantilla de demostración para landing page
